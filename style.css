@@ -96,6 +96,27 @@
     border: 1px solid #008000;
 }
 
+/* QA demarche */
+
+#qa h2 {
+    margin-bottom: 3rem;
+}
+
+.qaCard {
+    border: 1px solid #e0e0e0;
+    transition: border 0.3s ease;
+}
+
+.qaCard:hover {
+    border: 1px solid #198754;
+}
+
+.qaCard .card-title {
+    text-align: center;
+    font-weight: 600;
+}
+
+
 /* portfolio */
 #portfolio p {
     text-align: center;
