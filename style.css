@@ -102,7 +102,10 @@
 }
 
 .portfolioContent {
-  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
 .portfolioContent img {
@@ -112,6 +115,15 @@
     background-color: #f5f5f5;
 }
 
+.portfolioContent .card-body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.portfolioContent .btn {
+    margin-top: auto;
+}
 
 /* contact */
 .contactColumn {

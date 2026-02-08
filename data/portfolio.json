@@ -2,19 +2,19 @@
     {
         "image": "image1.png",
         "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Intégration d’une page web responsive à partir d’une maquette. Vérification du rendu, du responsive et corrections HTML/CSS pour améliorer la qualité et l’accessibilité.",
+        "link": "https://github.com/toadnam/booki"
     },
     {
-        "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "image": "eco-bliss-bath.png",
+        "title": "Eco-Bliss Bath",
+        "text": "Tests automatisés end-to-end sur une boutique en ligne. Écriture et exécution de scénarios de smoke tests pour sécuriser les parcours critiques.",
+        "link": "https://github.com/toadnam/eco-bliss-bath"
     },
     {
         "image": "image3.png",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Application React de location immobilière. Analyse des parcours, vérification du rendu des composants, gestion des erreurs et de la navigation.",
+        "link": "https://github.com/toadnam/kasa"
     }
 ]
