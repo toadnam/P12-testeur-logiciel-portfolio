@@ -1,6 +1,6 @@
 [
     {
-        "image": "image1.png",
+        "image": "booki.png",
         "title": "Booki",
         "text": "Intégration d’une page web responsive à partir d’une maquette. Vérification du rendu, du responsive et corrections HTML/CSS pour améliorer la qualité et l’accessibilité.",
         "link": "https://github.com/toadnam/booki"
@@ -12,7 +12,7 @@
         "link": "https://github.com/toadnam/eco-bliss-bath"
     },
     {
-        "image": "image3.png",
+        "image": "kasa.png",
         "title": "Kasa",
         "text": "Application React de location immobilière. Analyse des parcours, vérification du rendu des composants, gestion des erreurs et de la navigation.",
         "link": "https://github.com/toadnam/kasa"
